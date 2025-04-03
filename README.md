@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 💻 **Aspiring Data Scientist & AI Enthusiast**
-- 🎨 Passionate about **Design** and **Sketching**
+- 🎨 Passionate about **Designs** and **Sketching**
 - 📖 Currently studying **Software Engineering**
   
 ---
